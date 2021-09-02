@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\IncorrectSolution\IncorrectSolution\IncorrectSolution\bin\Debug\IncorrectSolution.exe.config
+C:\Users\HP\Desktop\IncorrectSolution\IncorrectSolution\IncorrectSolution\bin\Debug\IncorrectSolution.exe
+C:\Users\HP\Desktop\IncorrectSolution\IncorrectSolution\IncorrectSolution\bin\Debug\IncorrectSolution.pdb
+C:\Users\HP\Desktop\IncorrectSolution\IncorrectSolution\IncorrectSolution\obj\Debug\IncorrectSolution.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\IncorrectSolution\IncorrectSolution\IncorrectSolution\obj\Debug\IncorrectSolution.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\IncorrectSolution\IncorrectSolution\IncorrectSolution\obj\Debug\IncorrectSolution.exe
+C:\Users\HP\Desktop\IncorrectSolution\IncorrectSolution\IncorrectSolution\obj\Debug\IncorrectSolution.pdb
